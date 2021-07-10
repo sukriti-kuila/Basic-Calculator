@@ -5,7 +5,7 @@ This project helps to compute the basic arithmetic expressions like Addition, Su
 ### Tech Stack Used 
 HTML, CSS & JavaScript
 ### How our 7 Days of Web Development helped you in making this project?
-It has helped me a lot in making the project. I didn't have any idea about CSS & JavaScript before this. 
+It has helped me a lot in making the project. I didn't have any idea about CSS & JavaScript beforehand. 
 ### Hosted link
 https://calculator-sukriti-kuila.netlify.app/ 
 ### Name and Registration Number
