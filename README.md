@@ -8,5 +8,3 @@ HTML, CSS & JavaScript
 It has helped me a lot in making the project. I didn't have any idea about CSS & JavaScript beforehand. 
 ### Hosted link
 https://calculator-sukriti-kuila.netlify.app/ 
-### Name and Registration Number
-Sukriti Kuila - 2041011046
